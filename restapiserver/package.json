@@ -16,7 +16,7 @@
     "express": "^4.16.2",
     "js-base64": "^2.4.0",
     "mongodb": "^3.0.1",
-    "mongoose": "^4.13.7",
+    "mongoose": "^5.8.11",
     "promise": "^8.0.1",
     "public-ip": "^2.4.0"
   },
